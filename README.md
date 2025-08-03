@@ -2,10 +2,8 @@
 Java Programming Internship Tasks completed as part of CodSoft Internship Program. Includes core Java projects, OOP concepts, file handling, and mini applications.
 
 # ☕ CodSoft Java Development Internship
-
 This repository contains the tasks and projects completed as part of the **Java Development Internship at CodSoft**.  
 The purpose of this internship is to apply Java programming concepts to solve real-world problems and build console-based applications.
-
 ---
 
 ## 📌 About the Internship
